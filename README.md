@@ -3,7 +3,7 @@
 A modern responsive single-page website dedicated to the iconic **India Gate**
 ## 🔥 Live Demo
 
-[👉 Click here to view the site](https://688e51be756f32d38fa50f35--gleaming-pie-d76e9e.netlify.app/)
+[👉 Click here to view the site](https://twisted-ysws.github.io/INDIAGATE-Software-Example/)
 
 - Fully responsive design (mobile-first)
 - Bold headline + hero section
